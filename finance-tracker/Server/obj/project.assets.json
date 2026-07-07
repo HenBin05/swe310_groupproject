@@ -3416,19 +3416,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Hen Bin\\.nuget\\packages\\": {}
+    "C:\\Users\\karim\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hen Bin\\Documents\\Important Stuff\\Y3S3\\Programming Elective II\\SWE310_Project\\finance-tracker\\Server\\Server.csproj",
+      "projectUniqueName": "C:\\Users\\karim\\Documents\\GitHub\\swe310_groupproject\\finance-tracker\\Server\\Server.csproj",
       "projectName": "Server",
-      "projectPath": "C:\\Users\\Hen Bin\\Documents\\Important Stuff\\Y3S3\\Programming Elective II\\SWE310_Project\\finance-tracker\\Server\\Server.csproj",
-      "packagesPath": "C:\\Users\\Hen Bin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hen Bin\\Documents\\Important Stuff\\Y3S3\\Programming Elective II\\SWE310_Project\\finance-tracker\\Server\\obj\\",
+      "projectPath": "C:\\Users\\karim\\Documents\\GitHub\\swe310_groupproject\\finance-tracker\\Server\\Server.csproj",
+      "packagesPath": "C:\\Users\\karim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\karim\\Documents\\GitHub\\swe310_groupproject\\finance-tracker\\Server\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Hen Bin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\karim\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -3508,7 +3508,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.203/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
